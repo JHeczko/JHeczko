@@ -1,63 +1,75 @@
-# 👋 Hi, I'm Jakub / JHeczko
+# 👋 Hi, I'm Jakub Heczko
 
-### 🔭 Passionate Software & ML Engineer | Optimization | AI | Cloud
+### AI • Machine Learning • Optimization • Cloud
 
-I'm a developer focused on building clean, scalable systems and intelligent applications.  
-I enjoy working on AI/ML projects, data-driven tools, and optimization problems — often sharing my work on GitHub.
-
----
-
-<!-- GitHub Stats - dynamic cards -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JHeczko&show_icons=true&theme=radical)](https://github.com/JHeczko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHeczko&layout=compact&theme=radical)](https://github.com/JHeczko)
+I build intelligent systems and optimization-focused applications.  
+Interested in scalable ML solutions, clean architecture, and reproducible research.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 WrexGPT  
-💡 A project exploring training GPT-2 from scratch with PyTorch — generating text in the style of Shakespeare while learning about transformers and autoregressive models.  
-➡️ **Tech:** Python • PyTorch • NLP • Deep Learning  
-➡️ Badge:  
-![WrexGPT](https://img.shields.io/badge/-WrexGPT-111?style=for-the-badge&logo=github&logoColor=white)  
+### 🧠 WrexGPT
+A GPT-2 implementation built from scratch in PyTorch.  
+Focused on understanding transformers, autoregressive modeling, and training pipelines.
 
-### ⭐ [Project 2 – TODO] *(in progress)*  
-💡 Short description of what it does and why it matters  
-➡️ **Tech:** <your tech stack here>  
-➡️ Badge:  
-![Project2](https://img.shields.io/badge/-Project2-111?style=for-the-badge&logo=github&logoColor=white)
-
-### ⭐ [Project 3 – TODO] *(in progress)*  
-💡 Short description of what it does and why it matters  
-➡️ **Tech:** <your tech stack here>  
-➡️ Badge:  
-![Project3](https://img.shields.io/badge/-Project3-111?style=for-the-badge&logo=github&logoColor=white)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JHeczko&repo=WrexGPT&theme=dark)](https://github.com/JHeczko/WrexGPT)
 
 ---
 
-## 🧰 Skills & Tools
+### 🚧 Project 2 (In Progress)
+High-performance optimization / ML system — description coming soon.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JHeczko&repo=REPO_NAME_HERE&theme=dark)](https://github.com/JHeczko/REPO_NAME_HERE)
+
+---
+
+### 🚧 Project 3 (In Progress)
+Cloud / Data / Systems project — description coming soon.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JHeczko&repo=REPO_NAME_HERE&theme=dark)](https://github.com/JHeczko/REPO_NAME_HERE)
+
+---
+
+## 🛠 Tech Stack
 
 ### 💻 Languages
-Python • C++ • Java • Bash
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
 
 ### 📊 Data & ML
-Pandas • NumPy • PyTorch • Scikit-learn • Matplotlib
 
-### ☁️ Cloud, CI/CD & DevOps
-GCP • Docker • Git • GitHub Actions
-
----
-
-## 💡 Fun Facts
-
-- Always learning — currently diving deeper into optimization algorithms  
-- Strong believer in readable, testable code  
-- I teach myself something new every week
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 📫 Connect
+### ☁️ Cloud & DevOps
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🎯 Engineering Focus
+
+- Optimization algorithms  
+- Transformer architectures  
+- Scalable ML systems  
+- Cloud-based deployment  
+
+---
+
+## 📫 Contact
 
 📌 GitHub: https://github.com/JHeczko  
-📌 LinkedIn: _your link here_  
-📌 Email: _your email here_
+📌 LinkedIn: (add link)  
+📌 Email: (add email)
