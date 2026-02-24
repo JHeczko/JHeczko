@@ -101,4 +101,4 @@ Cloud / Data / Systems project — description coming soon.
 ## 📫 Contact
 
 📌 GitHub: https://github.com/JHeczko  
-📌 LinkedIn: (add link)  
+📌 LinkedIn: https://www.linkedin.com/in/jakub-heczko-316309327/
