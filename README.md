@@ -3,7 +3,6 @@
 ### AI / Machine Learning Engineer  
 Building scalable ML & GenAI systems with strong foundations in optimization and software engineering.
 
----
 
 ## 🚀 Featured Projects
 
@@ -13,9 +12,8 @@ Includes custom transformer blocks, autoregressive training loop, tokenization p
 
 **Key areas:** Transformers • NLP • Deep Learning • Training Infrastructure
 
-# 🛠 Technical Stack
 
----
+# 🛠 Technical Stack
 
 ## 🚀 Core Engineering
 
@@ -28,7 +26,6 @@ Includes custom transformer blocks, autoregressive training loop, tokenization p
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
 
----
 
 ## 🧠 AI / Machine Learning
 
@@ -40,7 +37,6 @@ Includes custom transformer blocks, autoregressive training loop, tokenization p
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
----
 
 ## 🤖 GenAI & LLM Systems
 
@@ -50,17 +46,13 @@ Includes custom transformer blocks, autoregressive training loop, tokenization p
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
----
-
 ## ☁️ Cloud & Infrastructure
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
----
-
-## 🌐 Web & Systems (additional)
+## 🌐 Web & Systems
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -71,14 +63,12 @@ Includes custom transformer blocks, autoregressive training loop, tokenization p
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 
----
 
 ## 🗄 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
 
 # 🎯 Engineering Focus
 
@@ -86,7 +76,6 @@ Includes custom transformer blocks, autoregressive training loop, tokenization p
 - Scalable ML infrastructure  
 - Clean, reproducible system design  
 
----
 
 # 📫 Contact
 
