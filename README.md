@@ -12,7 +12,7 @@ Includes custom transformer blocks, autoregressive training loop, tokenization p
 
 **Key areas:** Transformers • NLP • Deep Learning • Training Infrastructure
 
-### 🫀 [CardioLatentNet](https://github.com/JHeczko?tab=repositories) - ECG latent space analysis with deep autoencoders (WORK IN PROGRESS)
+### 🫀 [CardioLatentNet](https://github.com/JHeczko/CardioLatentNet) - ECG latent space analysis with deep autoencoders (WORK IN PROGRESS)
 End-to-end pipeline for learning compact representations of ECG signals using deep autoencoders.
 Features latent space visualization, class separability analysis, and downstream multi-label classification.
 
