@@ -1,8 +1,7 @@
 # Jakub Heczko
 
-### AI / Machine Learning Engineer  
-Building scalable ML & GenAI systems with strong foundations in optimization and software engineering.
-
+### AI/ML AND DEVOPS
+Building scalable ML & GenAI systems. Also big passion for DevOps and Infrastructure.
 
 ## 🚀 Featured Projects
 
@@ -50,6 +49,7 @@ Features latent space visualization, class separability analysis, and downstream
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
@@ -80,6 +80,7 @@ Features latent space visualization, class separability analysis, and downstream
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## CI/CD
 
@@ -91,7 +92,7 @@ Features latent space visualization, class separability analysis, and downstream
 
 - Transformer architectures & LLM systems  
 - Scalable ML infrastructure  
-- Clean, reproducible system design  
+- Understanding and building safe and reliable infrastructure
 
 
 # 📫 Contact
