@@ -2,7 +2,7 @@
 
 ### DevOps / Systems Engineering & AI/ML
 
-**DevOps / Systems Engineering Intern** @ **Comarch**. Building reliable, scalable infrastructure - with a parallel focus on GenAI and machine learning systems.
+**Systems Engineering** @ **Comarch**. Building reliable, scalable infrastructure - with a parallel focus on GenAI and machine learning systems.
 
 ---
 
