@@ -1,8 +1,8 @@
-# Jakub Heczko
+# Jakub Heczko - System Engineer
 
 ### DevOps / Systems Engineering & AI/ML
 
-**Systems Engineering** @ **Comarch**. Building reliable, scalable infrastructure - with a parallel focus on GenAI and machine learning systems.
+**Junior System Engineer** @ **Comarch**. Building reliable, scalable infrastructure - with a parallel focus on GenAI and machine learning systems.
 
 ---
 
