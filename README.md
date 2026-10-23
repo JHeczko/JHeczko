@@ -1,4 +1,4 @@
-# Jakub Heczko - System Engineer
+# Jakub Heczko
 
 ### DevOps / Systems Engineering & AI/ML
 
